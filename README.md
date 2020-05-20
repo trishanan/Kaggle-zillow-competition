@@ -9,7 +9,7 @@ I took an object oriented approach to solve this problem. I created three differ
 - Data Wrangling - `Removed duplicates and dropped missing or null values in the dataset.`
 - Exploratory Data Analysis - `Analyzed the data and summarized the main characteristics.`
 - Machine Learning Algorithms Used - `Linear Regression, Random Forest and Xgboost`
-- Evaluation Metrics Used - `Mean Squared Error(MSE) and R-squared`
+- Evaluation Metrics Used - `Root Mean Squared Error(RMSE) and R-squared`
 
 ## Technologies/Libraries Used
   ```
