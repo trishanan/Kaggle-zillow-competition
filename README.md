@@ -1,4 +1,4 @@
-# Salary Prediction Project(Python)
+# Kaggle Zillow competetion(Python)
 
 The purpose of this project is to use data transformation and machine learning to create a model that will predict house prices when given location (latitude and longitude), year built, lotsize(in square feet), bedroomcount etc.
 
